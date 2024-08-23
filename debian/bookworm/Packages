@@ -73,3 +73,16 @@ SHA256: f256e051f84f6654893b15e7c6d3fb5174cbd6baf5773bedb65e4028626c395c
 SHA512: 4f6f1263b7ee1067ac047382ad9046a737a97162071193df5f9ae22550ac5812a8a24ca6ffbccace966797348b9fac0d6347beeebe22a30a5d8f3ed122836885
 Description: x32 libffi
 
+Package: x32-libicu
+Architecture: amd64
+Version: 72.1-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libx32gcc-s1, libx32stdc++6
+Filename: ./amd64/x32-libicu/x32-libicu_72.1-1_amd64.deb
+Size: 16302352
+MD5sum: bf01b87879e8ca6ccf532b3a62f180fd
+SHA1: c4c8ff93bc5afdc19b002d2dd3a7d202bf842c39
+SHA256: 38c2f8e43e4aa38812787de2460284c03bc2d2aba099aa67af85e58b4d8ae5bd
+SHA512: 75e775c9944a0861e1c698ed2386f02a1cb93481016b0c38893201a52fcc0aadb7079eb741d719a96ace214457830384af9a7bde5291622f32dce63831927300
+Description: x32 libicu
+
