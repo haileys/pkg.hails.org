@@ -86,3 +86,16 @@ SHA256: 38c2f8e43e4aa38812787de2460284c03bc2d2aba099aa67af85e58b4d8ae5bd
 SHA512: 75e775c9944a0861e1c698ed2386f02a1cb93481016b0c38893201a52fcc0aadb7079eb741d719a96ace214457830384af9a7bde5291622f32dce63831927300
 Description: x32 libicu
 
+Package: x32-libidn
+Architecture: amd64
+Version: 1.41-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32
+Filename: ./amd64/x32-libidn/x32-libidn_1.41-1_amd64.deb
+Size: 267380
+MD5sum: 3c94629daf0b8a03ba44239c18a98747
+SHA1: 195a0bf8af1c33d537bcacff60e3340098c7ccd9
+SHA256: 14845fcb398de0d249f1e8629b84617dfea3e766b29ff3c2a94f033d728912de
+SHA512: 8645b6582384818ec1f59fe2b592a0a1713fbcf589cc148350306905e0f86631e048b455358dff8d87e8964e6b3789cbeeb7cb357796d1aae078e069a9c9acbb
+Description: x32 libidn
+
