@@ -112,6 +112,19 @@ SHA256: 5de5dae99cee27c35827b8cedd9717119267be4c6195c8b1a3aef9b697de1ba8
 SHA512: 65d07cd45e4b5d447652a24c0809b5da8db027f21907d594cff0ac9178637ff8797ad4f1bbf00daf5081f3cba10e320cb38c4a3d7842a979a8b41b5caa53ff1f
 Description: x32 libyaml
 
+Package: x32-openssl
+Architecture: amd64
+Version: 3.0.13-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32
+Filename: ./amd64/x32-openssl/x32-openssl_3.0.13-1_amd64.deb
+Size: 19865922
+MD5sum: c2ddc57665519d45093d92ac9e6a12bc
+SHA1: 80ab6a1997bcc5008584e2557700a2060c32aa50
+SHA256: d3cd54a4c1bdc13af47e3d8d117c69bea3266fed031ed069a7fdcfcfa5130623
+SHA512: ba2d2283b95d394309249ae84cffa029741bed50d2895d8ca1a801ab059b8e4ab638827a9f7cddddc6c1647fe91ab05dda20acc090bdf7fc0a0b11c488ad3ee3
+Description: x32 openssl
+
 Package: x32-zlib
 Architecture: amd64
 Version: 1.2.13-1
