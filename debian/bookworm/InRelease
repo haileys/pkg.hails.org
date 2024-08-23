@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 23 Aug 2024 06:57:04 +0000
+MD5Sum:
+ 9dfd5dd227bf9005ac7c6f62328b2f33              615 Packages
+ 69b490bd7439e3714e701dfbe89d10ee              453 Packages.gz
+ 7b736f3d5a44256303c4778a7a4751c1               38 Release
+SHA1:
+ 721a1b6323cce2aab623474edb7fe6ddae6ff198              615 Packages
+ 75273596799c5bb5a2d48fb30d4e87c673693230              453 Packages.gz
+ 820d3e8b24c3b87313187bf859995fffe0b58ffb               38 Release
+SHA256:
+ 286e9198386ecb07438f093db416155e50bb18974fd6d5e2ea9b97e04ca0751a              615 Packages
+ a61e2ec9f63af9ed9f955c88545ab550e3277b8cd22cb7ee585cfc6b6bcd1329              453 Packages.gz
+ c3fe79de9a4a4b38a34959fcbdfbf1fcdc2406fe3ee85d3dfddc5835624c488d               38 Release
+SHA512:
+ 3cd48736ad8e7f94f8aee9df3ae8aa0d06627f93228c9f5e0ef011a0f6095a6164aceb4d244697e80fcf74b54d8836879384c8207cd3edea2912ba977b61ec33              615 Packages
+ 0e7caefe4bc72077f2bb489192beee18f9d446b212d08b2e19f7da3dede1c1daf5158a3a39b491e923ee12c013fd89e82ccf9798f4dd5130d6ab7eef8c65d639              453 Packages.gz
+ 58cdd464a355da01e1a48adaa0e02451255ecb9a3526d4e1c0a55a9729b78a0a1cee087c590007048d213e974a6d8b093d9fae0c3d8ad67f6789463db7e8bcb1               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE12T6gLmOAfAKxVUsC0+aJRQKmgoFAmbIMsAACgkQC0+aJRQK
+mgpCthAAmqE3Md66acF0/jTctfSsOOWxUgcbs+r5kdYhmD7RcqRaiEyauYtuUdz/
+5QHiReEMBUd3wMifO9nX6jUXddLdxRp2Ytv3YNsB+I9xLZkAjOhbjIcou1Ewr76F
+PnnX+K4L/qTIOWnxGlKwxATweoyvDeepZPllTgwZ+3rBv3ot6QXNp1pNx9vKifkY
+Clki6mqZ6ZDuUwiTPpH+2Ih9QWCCn2t3Y4k3Y2cygMRAtLkfpQf350CU2ZN1EydL
+DEgxKJPstPMithg82fssle3UHXFsseS4L07lNkb63C1YAx2y4veA90phiTXR+VSw
+afmYGpuKe3le1nNv6qYhBFa+y8H2WXpAIPpvrdQTlIv09Y9qAJRAKpjRTxtceCPo
+crqK26q+xhgNuU7siHHCgthK2AVnqMvvjQv5JMyiA1Fg7Q8uOV0OfTQmFv31G+6E
+ReovGV1MT8tP7DZQ5/+NJ9V8pzsh6YrrYSGmYv4k2SyQyjt46dmLxBnKc7kyODvJ
+KhegUa9XoHGdQT5sbsWZk1IbB6rXv+PP0A0ZWI1oplyxcbnUY2g57k/92l7CTdz0
++sU/bl3+Lp3inz3P5wssKKbtgS93Vt11wLhhwQyXBJ2I43SkAJwlCimJVp86VyqQ
+Qs6wrZm7kXe57NN+TOThzceszyn82BckkicImsK/Q+v2N9lyy6o=
+=pv6r
+-----END PGP SIGNATURE-----

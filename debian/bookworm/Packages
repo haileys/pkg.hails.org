@@ -1,0 +1,13 @@
+Package: opt-ruby-3.2
+Architecture: amd64
+Version: 3.2.5-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libffi8, libreadline8, libssl3, libyaml-0-2, zlib1g
+Filename: ./amd64/opt-ruby-3.2/opt-ruby-3.2_3.2.5-1_amd64.deb
+Size: 17589068
+MD5sum: 6b99815a0ade5858a71777ab4e79aff0
+SHA1: 145c23f527eac47f6c8599054544b3dd46565496
+SHA256: 1bc31d0a86265d786afc7ac37dca96615da73796dfc64f0a8139065264ec0842
+SHA512: 6066ec9c5fe0fec734099d4528f40e7be0277fb5ec53a90619fa41dafa25f372647056a2e437f1b99ffbf960778ac7a96c6fd29408eb9586a55e1480fe32a272
+Description: The Ruby Programming Language, installed in /opt/rubies/3.2
+
