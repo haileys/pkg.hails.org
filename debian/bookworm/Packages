@@ -99,6 +99,19 @@ SHA256: 14845fcb398de0d249f1e8629b84617dfea3e766b29ff3c2a94f033d728912de
 SHA512: 8645b6582384818ec1f59fe2b592a0a1713fbcf589cc148350306905e0f86631e048b455358dff8d87e8964e6b3789cbeeb7cb357796d1aae078e069a9c9acbb
 Description: x32 libidn
 
+Package: x32-libxml2
+Architecture: amd64
+Version: 2.9.14-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32, x32-zlib
+Filename: ./amd64/x32-libxml2/x32-libxml2_2.9.14-1_amd64.deb
+Size: 2258232
+MD5sum: 864fb11debcf6a9b50aa6f23c6e9fcc1
+SHA1: a2cc386e854d833b9b89647622494122c44d0bc7
+SHA256: 1c0766fc5cbdce5dbfca0f3f377794f131ff7f31bb6015476a22d69111a3797a
+SHA512: c5943ed670bcb3266c3cca4859b64ae7e79928bb82545aae9e0c26b646195ba0e69732c5379c406a3bdbffedee2cce64017736f1033f8a003a9552ed6561c4bd
+Description: x32 libxml2
+
 Package: x32-libyaml
 Architecture: amd64
 Version: 0.2.5-1
