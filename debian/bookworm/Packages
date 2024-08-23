@@ -99,6 +99,19 @@ SHA256: 14845fcb398de0d249f1e8629b84617dfea3e766b29ff3c2a94f033d728912de
 SHA512: 8645b6582384818ec1f59fe2b592a0a1713fbcf589cc148350306905e0f86631e048b455358dff8d87e8964e6b3789cbeeb7cb357796d1aae078e069a9c9acbb
 Description: x32 libidn
 
+Package: x32-libpq
+Architecture: amd64
+Version: 15.8-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32, x32-zlib
+Filename: ./amd64/x32-libpq/x32-libpq_15.8-1_amd64.deb
+Size: 1454280
+MD5sum: 7f0e137449d2e0b46d233638b4ebe42d
+SHA1: 6bc19ce498af7dbc690d2299e32f6ef77591542b
+SHA256: 121c508cef87852f370c3c3045c55b650257ceccb35bc82e341fce4bb3dfc4aa
+SHA512: 38b75500419ac5d4e624d77f5629f1cc1108a3ff7a3b9a9ebbe52669f2c8f6669693e33d8da6bbb4ca762d707053197a7a94fb6b6d9376e9d963f83ba136b509
+Description: x32 libpq
+
 Package: x32-libxml2
 Architecture: amd64
 Version: 2.9.14-1
