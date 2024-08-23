@@ -125,6 +125,19 @@ SHA256: 1c0766fc5cbdce5dbfca0f3f377794f131ff7f31bb6015476a22d69111a3797a
 SHA512: c5943ed670bcb3266c3cca4859b64ae7e79928bb82545aae9e0c26b646195ba0e69732c5379c406a3bdbffedee2cce64017736f1033f8a003a9552ed6561c4bd
 Description: x32 libxml2
 
+Package: x32-libxslt
+Architecture: amd64
+Version: 1.1.39-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32, x32-libxml2
+Filename: ./amd64/x32-libxslt/x32-libxslt_1.1.39-1_amd64.deb
+Size: 290384
+MD5sum: 8dd43d92455781f8d6886dba82e54b92
+SHA1: 55b4b7070a9bdf844100e9124875a2d5ef2094d8
+SHA256: a75952cebd7cd2a776427d968c34c8f36547be984e2364bb3e1be195e67adeaa
+SHA512: 96673647c44a1f2439578ae91fdf6ae81b21af4fd5b1f9dd2579a9777670417a6e8974e50f3e8bb16d932823a894f3f9868cacf945186acf18ce1f18dba832fb
+Description: x32 libxslt
+
 Package: x32-libyaml
 Architecture: amd64
 Version: 0.2.5-1
