@@ -1,3 +1,15 @@
+Package: chruby
+Architecture: amd64
+Version: 0.3.9-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/chruby/chruby_0.3.9-1_amd64.deb
+Size: 11376
+MD5sum: e5a793afb6162f350b6cfe6436269b05
+SHA1: 13ac75938e24393c44b608ef336e4c028c3e8e52
+SHA256: e2761019a8a05e168bd5acfe2fabbc3d6942fb7af68b4f02f7b729628425fa00
+SHA512: 4738d85d3a6c47f7c8d3342273814c2aeb51a24b5b7427f0eba11543a9e3b0a638a973ae66915eb0e63484708f2a5778887a377c0f89e24278eff1102e3b132a
+Description: Changes the current Ruby
+
 Package: opt-ruby-3.2
 Architecture: amd64
 Version: 3.2.5-1
