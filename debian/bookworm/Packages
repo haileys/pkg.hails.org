@@ -10,6 +10,18 @@ SHA256: e2761019a8a05e168bd5acfe2fabbc3d6942fb7af68b4f02f7b729628425fa00
 SHA512: 4738d85d3a6c47f7c8d3342273814c2aeb51a24b5b7427f0eba11543a9e3b0a638a973ae66915eb0e63484708f2a5778887a377c0f89e24278eff1102e3b132a
 Description: Changes the current Ruby
 
+Package: opt-nodejs-18
+Architecture: amd64
+Version: 18.20.4-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/opt-nodejs-18/opt-nodejs-18_18.20.4-1_amd64.deb
+Size: 44668048
+MD5sum: c4596c535adc1a88b51fb2a889eea72f
+SHA1: f0f66baf7aeaa248f45968265037098a46ae7124
+SHA256: b2ea7af2b579bf67a8527ea335b41bb69fc3f6dae1d429df6417f5e68d44c0a1
+SHA512: 29ade54d732d945f7ad9f6dbc0f0d1017b29fcd0c22a6da97472e7e56672b76fa73dfec91a028954bb89ddd1a60294ba9e29047383c628a712eef0acf8c2e29d
+Description: node.js runtime, installed in /opt/nodejs/18
+
 Package: opt-ruby-3.2
 Architecture: amd64
 Version: 3.2.5-1
