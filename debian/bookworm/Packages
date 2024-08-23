@@ -99,6 +99,19 @@ SHA256: 14845fcb398de0d249f1e8629b84617dfea3e766b29ff3c2a94f033d728912de
 SHA512: 8645b6582384818ec1f59fe2b592a0a1713fbcf589cc148350306905e0f86631e048b455358dff8d87e8964e6b3789cbeeb7cb357796d1aae078e069a9c9acbb
 Description: x32 libidn
 
+Package: x32-libyaml
+Architecture: amd64
+Version: 0.2.5-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32
+Filename: ./amd64/x32-libyaml/x32-libyaml_0.2.5-1_amd64.deb
+Size: 403268
+MD5sum: ca250427092450f4ec84f92926701ce0
+SHA1: 25e25a31a52c4da82991a70c49d230850d17af62
+SHA256: 5de5dae99cee27c35827b8cedd9717119267be4c6195c8b1a3aef9b697de1ba8
+SHA512: 65d07cd45e4b5d447652a24c0809b5da8db027f21907d594cff0ac9178637ff8797ad4f1bbf00daf5081f3cba10e320cb38c4a3d7842a979a8b41b5caa53ff1f
+Description: x32 libyaml
+
 Package: x32-zlib
 Architecture: amd64
 Version: 1.2.13-1
