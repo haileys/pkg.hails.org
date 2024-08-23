@@ -99,3 +99,16 @@ SHA256: 14845fcb398de0d249f1e8629b84617dfea3e766b29ff3c2a94f033d728912de
 SHA512: 8645b6582384818ec1f59fe2b592a0a1713fbcf589cc148350306905e0f86631e048b455358dff8d87e8964e6b3789cbeeb7cb357796d1aae078e069a9c9acbb
 Description: x32 libidn
 
+Package: x32-zlib
+Architecture: amd64
+Version: 1.2.13-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32
+Filename: ./amd64/x32-zlib/x32-zlib_1.2.13-1_amd64.deb
+Size: 363376
+MD5sum: 6a773005fe25ccb4baeefb8769030820
+SHA1: 0c0b06727d9678b0dad58baa573d941ab4bb9790
+SHA256: d80d49927cd925ce0a5aa40cf0e66f6825853530b64f3a72702e1b70a5b91ba0
+SHA512: 2876c0c46367d0ecf2388594b6af8c180a9c3f9e18f93e78657e02adbdc2f67ca5e2c4d899b95afd8f8e88bb177b6e4c08eb2226c7914428705befe840f30167
+Description: x32 zlib
+
