@@ -60,3 +60,16 @@ SHA256: 14cb1c9d75fd8fd6130ba45e85d6abd1f74699a47e1fbf069b0f6a1d953d6e82
 SHA512: 057909619d9fcc5972ee1b0084be5033b871e8de4e613d6c889a8e994fc5dfb48f251f214b5658e507ded0fda19613979e6c4244ea1917151103dcd0d1f86230
 Description: The Ruby Programming Language, installed in /opt/rubies/3.2
 
+Package: x32-libffi
+Architecture: amd64
+Version: 3.4.4-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32
+Filename: ./amd64/x32-libffi/x32-libffi_3.4.4-1_amd64.deb
+Size: 194366
+MD5sum: eced9ad202bbdf114c620898b934e37f
+SHA1: 14fda9251717655ebdea6d946ec08ce5fbcb3d81
+SHA256: f256e051f84f6654893b15e7c6d3fb5174cbd6baf5773bedb65e4028626c395c
+SHA512: 4f6f1263b7ee1067ac047382ad9046a737a97162071193df5f9ae22550ac5812a8a24ca6ffbccace966797348b9fac0d6347beeebe22a30a5d8f3ed122836885
+Description: x32 libffi
+
