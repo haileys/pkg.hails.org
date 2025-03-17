@@ -177,6 +177,19 @@ SHA256: d3cd54a4c1bdc13af47e3d8d117c69bea3266fed031ed069a7fdcfcfa5130623
 SHA512: ba2d2283b95d394309249ae84cffa029741bed50d2895d8ca1a801ab059b8e4ab638827a9f7cddddc6c1647fe91ab05dda20acc090bdf7fc0a0b11c488ad3ee3
 Description: x32 openssl
 
+Package: x32-ruby-3.2
+Architecture: amd64
+Version: 3.2.5-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libc6-x32, x32-libffi, x32-openssl, x32-libyaml, x32-zlib
+Filename: ./amd64/x32-ruby-3.2/x32-ruby-3.2_3.2.5-1_amd64.deb
+Size: 11981154
+MD5sum: 9fd23194e0e94008f01a4264691e3ead
+SHA1: 53c2855736c364765449c37c4d0e4278accd8375
+SHA256: 63b1090ec0cada002e5a48af33a3e266719332e5cc1f5ed98790a52d232a5603
+SHA512: 19fefc9298e714fc5004052d8931e2d7b3c23263fbf22ddb74dd75fc83826805719f3361dc5247fa152239a40497f2dca57dcc803d79e3d889c60f295cbb6601
+Description: x32 ruby 3.2
+
 Package: x32-ruby-3.3
 Architecture: amd64
 Version: 3.3.6-1
