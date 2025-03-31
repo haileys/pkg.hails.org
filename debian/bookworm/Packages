@@ -46,6 +46,18 @@ SHA256: b67659d669c0712b693e697a342de174b98fe94b2d0c4ac75607cb818069e56c
 SHA512: 6ef99357a132495803e1e79fd105b88d68e0bf894c10eda691c59c428aa2aae078cfa3dd819b3f1b40418d225f43118e01daa55ec700df58beaf10d11bb9792a
 Description: node.js runtime, installed in /opt/nodejs/18
 
+Package: opt-nodejs-20
+Architecture: amd64
+Version: 20.19.0-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/opt-nodejs-20/opt-nodejs-20_20.19.0-1_amd64.deb
+Size: 47546020
+MD5sum: db6ebfe6ea4b86185408cdd570a0eced
+SHA1: 6537e6312eb534e52d1a4c2268e1fc79570b2646
+SHA256: f56e787f518a7bad696a804494eb7e0215fe926a9115f2dee56ed24ff514bea6
+SHA512: 796f2742e2d1895a28b1cf077f9a4dd9d2419cec470e304004e902bbefc0ffe39fc095b774737b5117c97c823eeca515ff146e2e489d63cf772ffa501b782f39
+Description: node.js runtime, installed in /opt/nodejs/20
+
 Package: opt-ruby-3.2
 Architecture: amd64
 Version: 3.2.5-1
