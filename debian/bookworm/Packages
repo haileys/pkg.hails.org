@@ -34,6 +34,18 @@ SHA256: b2ea7af2b579bf67a8527ea335b41bb69fc3f6dae1d429df6417f5e68d44c0a1
 SHA512: 29ade54d732d945f7ad9f6dbc0f0d1017b29fcd0c22a6da97472e7e56672b76fa73dfec91a028954bb89ddd1a60294ba9e29047383c628a712eef0acf8c2e29d
 Description: node.js runtime, installed in /opt/nodejs/18
 
+Package: opt-nodejs-18
+Architecture: amd64
+Version: 18.20.8-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/opt-nodejs-18/opt-nodejs-18_18.20.8-1_amd64.deb
+Size: 44658424
+MD5sum: c721e465566f6f98d3e62fdf14761e54
+SHA1: 271e00f1a33ac7f10942c437feb46dcc13d6030d
+SHA256: b67659d669c0712b693e697a342de174b98fe94b2d0c4ac75607cb818069e56c
+SHA512: 6ef99357a132495803e1e79fd105b88d68e0bf894c10eda691c59c428aa2aae078cfa3dd819b3f1b40418d225f43118e01daa55ec700df58beaf10d11bb9792a
+Description: node.js runtime, installed in /opt/nodejs/18
+
 Package: opt-ruby-3.2
 Architecture: amd64
 Version: 3.2.5-1
