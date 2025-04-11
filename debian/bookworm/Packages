@@ -22,6 +22,18 @@ SHA256: 1d090710f4eb97db9d493c62a2a44f404b4b12f8eb1f6915203e89df7322c523
 SHA512: 7177952834b098254211ff958cd93c8ada2d1afb36c2f9de4886d061cd1883ad95c10641d333ec99b1cdbf6cc1cfa0d01cc1d23c85c6aec0143d0df0d4805f1c
 Description: Changes the current Ruby
 
+Package: navidrome
+Architecture: amd64
+Version: 0.55.2-0
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/navidrome/navidrome_0.55.2-0_amd64.deb
+Size: 17104170
+MD5sum: 4f3b1b849cd1bd003af97dec610cd370
+SHA1: aa5f707e6a294378d4505c27ccbd68c6f84305da
+SHA256: e1878ce01df9c6f5db94066ee954ecd52f1314028657f469408ba6f8bc668ef9
+SHA512: dba0902e2f1d72154c6a59d9884e05319bf8dd614dfc2d7f386990876ae8bfdb401bb780378377ada93790f2865fa1e82b575748c9139d03ab403d2f3fed787a
+Description: navidrome
+
 Package: opt-nodejs-18
 Architecture: amd64
 Version: 18.20.4-1
