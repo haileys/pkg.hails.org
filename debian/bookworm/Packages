@@ -22,6 +22,18 @@ SHA256: 1d090710f4eb97db9d493c62a2a44f404b4b12f8eb1f6915203e89df7322c523
 SHA512: 7177952834b098254211ff958cd93c8ada2d1afb36c2f9de4886d061cd1883ad95c10641d333ec99b1cdbf6cc1cfa0d01cc1d23c85c6aec0143d0df0d4805f1c
 Description: Changes the current Ruby
 
+Package: lua-resty-http
+Architecture: amd64
+Version: 0.17.2-0
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/lua-resty-http/lua-resty-http_0.17.2-0_amd64.deb
+Size: 45674
+MD5sum: dcbcbee898f41c7e741129875244acf8
+SHA1: 09ad0682d8c8fe80463d4932d05459808d0adc99
+SHA256: 65c2a40b64e0f803a36aeae6ff9ba2c4a5895b98e3d5a9cf859ab803773e0a91
+SHA512: 5852da2649d17dcce68f5159fa24752a74f059025175c1198492bf6e527d3246000e3c6dda35319bca4aad8d6a598684c0d5bffcb00a76b325dc0f772b0cc909
+Description: Lua HTTP client cosocket driver for OpenResty / ngx_lua
+
 Package: navidrome
 Architecture: amd64
 Version: 0.55.2-0
