@@ -34,6 +34,19 @@ SHA256: 65c2a40b64e0f803a36aeae6ff9ba2c4a5895b98e3d5a9cf859ab803773e0a91
 SHA512: 5852da2649d17dcce68f5159fa24752a74f059025175c1198492bf6e527d3246000e3c6dda35319bca4aad8d6a598684c0d5bffcb00a76b325dc0f772b0cc909
 Description: Lua HTTP client cosocket driver for OpenResty / ngx_lua
 
+Package: lua-resty-string
+Architecture: amd64
+Version: 0.16-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: lua-resty-core
+Filename: ./amd64/lua-resty-string/lua-resty-string_0.16-1_amd64.deb
+Size: 5602
+MD5sum: dabfa31f341b74c41d415e632ff17324
+SHA1: d013d7a5a17af65cb5e6f961482f4e95d7340fce
+SHA256: 2f050536e5c595a4313a46cc032435d94c28ded15a45cf08df1821044df21e6a
+SHA512: 3b45643ecf3d5d9061176fcba3ef95fe48cba4655955c03fe5a8f62dfc388a472485a00381637eb11377d6d3d6e3ba17b355bbbafae261c69e39ae0646820d54
+Description: Lua HTTP client cosocket driver for OpenResty / ngx_lua
+
 Package: navidrome
 Architecture: amd64
 Version: 0.55.2-0
