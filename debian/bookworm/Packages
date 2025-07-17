@@ -147,6 +147,18 @@ SHA256: c40eb6937d8cdc466a13265e66b466bd8f2d762d5326bcde07ef22082de1a117
 SHA512: 735ccd25ac6d9ec63281954d078df4f6d662fd91fca92cd1918b4e80a4e52726aa27ad9e75e08a091c309af04a60ed68c17e2849a3bf06145496a140f0b99ce7
 Description: The Ruby Programming Language, installed in /opt/rubies/3.3
 
+Package: woodpecker-agent
+Architecture: amd64
+Version: 3.8.0-0
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/woodpecker-agent/woodpecker-agent_3.8.0-0_amd64.deb
+Size: 14969326
+MD5sum: 21ff841b9ef198ecde3a86e0e219e03b
+SHA1: 68ded23f3ee23b4f4ba68905ca52f69c72738c9e
+SHA256: ec27fb5a7f2845ce297ea79666f4e56ce8fcab5271a4cbc7995774cc2fed2e67
+SHA512: ede472200bc97423151b592dde9d2df211f046b40d23598e9971acc992b047c77c2217088150f14493fae50b69c365f26b552881c244b26d20c1a1055b2ab221
+Description: woodpecker agent
+
 Package: woodpecker-server
 Architecture: amd64
 Version: 3.8.0-0
