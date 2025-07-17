@@ -147,6 +147,18 @@ SHA256: c40eb6937d8cdc466a13265e66b466bd8f2d762d5326bcde07ef22082de1a117
 SHA512: 735ccd25ac6d9ec63281954d078df4f6d662fd91fca92cd1918b4e80a4e52726aa27ad9e75e08a091c309af04a60ed68c17e2849a3bf06145496a140f0b99ce7
 Description: The Ruby Programming Language, installed in /opt/rubies/3.3
 
+Package: woodpecker-server
+Architecture: amd64
+Version: 3.8.0-0
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/woodpecker-server/woodpecker-server_3.8.0-0_amd64.deb
+Size: 14991816
+MD5sum: e1d20ea428020ee9181609f8e9ceceab
+SHA1: 70f4e979b0f930d839ce1aa6da969f57f9c54120
+SHA256: f27f0cbc1834f6ff44ed533922d1e2ae9950ad727ac27da232cccf8199d8352b
+SHA512: 3adb8c09d8ccbc836aa47c9ca69021593d721c099f5ea05d16e36fd2f157dd75de990156227faa7ac28908bbc8611fe2ed977c404db6a27909a83f3abc2b6fda
+Description: woodpecker server
+
 Package: x32-libffi
 Architecture: amd64
 Version: 3.4.4-1
