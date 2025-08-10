@@ -1,0 +1,12 @@
+Package: opt-nodejs-22
+Architecture: amd64
+Version: 22.18.0-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/opt-nodejs-22/opt-nodejs-22_22.18.0-1_amd64.deb
+Size: 55215312
+MD5sum: 594639a763532a892c6b89bf1dc3a251
+SHA1: 0dfb102758409f7ffcce435a453cead0241d84cf
+SHA256: c422e8520fc8252e6963f64b9beb421d5056fd7c349f2c4090a3b3a27a196ab0
+SHA512: 52fabab53457a0d4b38e03532aa8f0b259a6c4a54c3740b8c69009e6361cc7e68b6c82211898fbdd15d526c9a197f29ae17d098b6d5a140de6d2ae10b48cf08d
+Description: node.js runtime, installed in /opt/nodejs/22
+
