@@ -1,3 +1,15 @@
+Package: forgejo-runner
+Architecture: amd64
+Version: 9.0.3-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/forgejo-runner/forgejo-runner_9.0.3-1_amd64.deb
+Size: 7971460
+MD5sum: f9d340726af09c04a4b55c6150810223
+SHA1: f6ff3c550391eff94ac66827be2867867e780c08
+SHA256: 3741ac6e885da02b67a8634e5bab4f262feb2d67e58b0a981bfbeb79dfa4407e
+SHA512: 9f8d0ab15f8e9e7871cbb62b73e52f441d57757c3e593286d163de9fb28db2fa0f93351f31d51f47a7fd387880dd9eca6d96f59d870db821b79da117e1352269
+Description: Forgejo Actions runner
+
 Package: opt-nodejs-22
 Architecture: amd64
 Version: 22.18.0-1
