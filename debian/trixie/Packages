@@ -22,3 +22,15 @@ SHA256: c422e8520fc8252e6963f64b9beb421d5056fd7c349f2c4090a3b3a27a196ab0
 SHA512: 52fabab53457a0d4b38e03532aa8f0b259a6c4a54c3740b8c69009e6361cc7e68b6c82211898fbdd15d526c9a197f29ae17d098b6d5a140de6d2ae10b48cf08d
 Description: node.js runtime, installed in /opt/nodejs/22
 
+Package: opt-nodejs-24
+Architecture: amd64
+Version: 24.6.0-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/opt-nodejs-24/opt-nodejs-24_24.6.0-1_amd64.deb
+Size: 59178562
+MD5sum: e94da801e4a1806d5d63afef00d4b20e
+SHA1: ffe6279da76fefd4039ce3fe61262d9295e9377a
+SHA256: 26baecc68ca8eda8669205db8200dadec387aa0312fa12693128a5904855f35b
+SHA512: 77a446ffb9664e0119a3e23ba1812ecb10a9ec9c790a3664348615159076d0312826bdd2076aed18848497e9bf8a2d56c228e5e0de1e3a5c1733396c7e140a27
+Description: node.js runtime, installed in /opt/nodejs/24
+
