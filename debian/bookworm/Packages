@@ -108,6 +108,18 @@ SHA256: f56e787f518a7bad696a804494eb7e0215fe926a9115f2dee56ed24ff514bea6
 SHA512: 796f2742e2d1895a28b1cf077f9a4dd9d2419cec470e304004e902bbefc0ffe39fc095b774737b5117c97c823eeca515ff146e2e489d63cf772ffa501b782f39
 Description: node.js runtime, installed in /opt/nodejs/20
 
+Package: opt-nodejs-22
+Architecture: amd64
+Version: 22.21.0-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/opt-nodejs-22/opt-nodejs-22_22.21.0-1_amd64.deb
+Size: 57082728
+MD5sum: b919982585020cdcb0f543a65092507c
+SHA1: c384e78aaf4a4a3b4920907264aad6f9c06106ea
+SHA256: 8cf0f0eecf4475a04216af843ffa81d86de947bcbbaf5cbafa5e3dc74dd41845
+SHA512: 964f65fa96fcd63bddafd9b9dd097fdc8cc12bf4543d505a26e3611d1c845b6756ff1bf1d982f43389d2fcd1401b5521cdc841c72536e53996598f12b3b3e01f
+Description: node.js runtime, installed in /opt/nodejs/22
+
 Package: opt-ruby-3.2
 Architecture: amd64
 Version: 3.2.5-1
