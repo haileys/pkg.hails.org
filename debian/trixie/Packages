@@ -34,3 +34,16 @@ SHA256: 26baecc68ca8eda8669205db8200dadec387aa0312fa12693128a5904855f35b
 SHA512: 77a446ffb9664e0119a3e23ba1812ecb10a9ec9c790a3664348615159076d0312826bdd2076aed18848497e9bf8a2d56c228e5e0de1e3a5c1733396c7e140a27
 Description: node.js runtime, installed in /opt/nodejs/24
 
+Package: opt-ruby-3.2
+Architecture: amd64
+Version: 3.2.11-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libffi8, libreadline8, libssl3, libyaml-0-2, zlib1g
+Filename: ./amd64/opt-ruby-3.2/opt-ruby-3.2_3.2.11-1_amd64.deb
+Size: 31155862
+MD5sum: 2fc5d7aab050870f2bcd9b9fb82a2282
+SHA1: 34b12efbfd375fb76ea065bd60f4a278da72c7fa
+SHA256: 7879c7764a9f4cbc31814814a4e3038705ed469b168f0906617bbbb60eb28e3b
+SHA512: 054339e8c6ba1e8ea6eca75c2aaf6a85e56ef2b968af48b80c29213039d40f7ec350bb5cee5737af49476761d2787e613b62b6291ca4e152b7b05e851383257c
+Description: The Ruby Programming Language, installed in /opt/rubies/3.2
+
