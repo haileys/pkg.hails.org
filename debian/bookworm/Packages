@@ -72,6 +72,18 @@ SHA256: e1878ce01df9c6f5db94066ee954ecd52f1314028657f469408ba6f8bc668ef9
 SHA512: dba0902e2f1d72154c6a59d9884e05319bf8dd614dfc2d7f386990876ae8bfdb401bb780378377ada93790f2865fa1e82b575748c9139d03ab403d2f3fed787a
 Description: navidrome
 
+Package: navidrome
+Architecture: amd64
+Version: 0.63.1-0
+Maintainer: Hailey Somerville <deb@hails.org>
+Filename: ./amd64/navidrome/navidrome_0.63.1-0_amd64.deb
+Size: 23724656
+MD5sum: 7874f4abac94500f50c40f44427071fb
+SHA1: baaaa712285f03bcc35fd56867e096d482825ab5
+SHA256: f78bae566bf06e25094746267b5d36442e7483bc78f18fe7286c30cc8728ed9c
+SHA512: 84f587cd791526da52afde046453af8daf68cfa67164f33487c9f0098885e85dda3405156a7cff506a608e4d5fda0f87f6094b537acf9e36e05b02fed4bb607c
+Description: navidrome
+
 Package: opt-nodejs-18
 Architecture: amd64
 Version: 18.20.4-1
