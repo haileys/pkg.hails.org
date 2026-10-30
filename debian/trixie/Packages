@@ -47,3 +47,16 @@ SHA256: 7879c7764a9f4cbc31814814a4e3038705ed469b168f0906617bbbb60eb28e3b
 SHA512: 054339e8c6ba1e8ea6eca75c2aaf6a85e56ef2b968af48b80c29213039d40f7ec350bb5cee5737af49476761d2787e613b62b6291ca4e152b7b05e851383257c
 Description: The Ruby Programming Language, installed in /opt/rubies/3.2
 
+Package: opt-ruby-3.4
+Architecture: amd64
+Version: 3.4.12-1
+Maintainer: Hailey Somerville <deb@hails.org>
+Depends: libffi8, libreadline8, libssl3, libyaml-0-2, zlib1g
+Filename: ./amd64/opt-ruby-3.4/opt-ruby-3.4_3.4.12-1_amd64.deb
+Size: 38711346
+MD5sum: 423106bf8c214d5355451db5d47cdeac
+SHA1: a517afd4c92fabfbf8a2aed5741b93fff7da42a9
+SHA256: 51abfbdc56d01923115daaba066f10ad8305b630004a4a3760f67172b7017bb3
+SHA512: 3e40043b8a1a6aff288ef5b75923cfcc0dbb4010df5d8137a6e0a5ff1351ebe685619b5f064e73732e1bb246d384e85f89516d9a31fb12088ce03eeee4ea7a9f
+Description: The Ruby Programming Language, installed in /opt/rubies/3.4
+
